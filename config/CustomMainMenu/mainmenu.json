@@ -1,0 +1,207 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "menu:logo.png",
+            "posX" : -222,
+            "posY" : 10,
+            "width" : 185,
+            "height" : 142,
+            "alignment" : "top_center"
+        },
+        "black":
+        {
+            "image" : "menu:bg_menu.png",
+            "posX" : -230,
+            "posY" : -80,
+            "width" : 200,
+            "height" : 1500,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 16776960,
+            "texture" : "menu:btn.png",
+            "posX" : -228,
+            "posY" : 155,
+            "width" : 196,
+            "height" : 30,
+            imageWidth : 100,
+            imageHeight : 50,
+            "alignment" : "top_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "official":
+        {
+            "text" : "Play on Alehouse",
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 16776960,
+            "texture" : "menu:btn.png",
+            "posX" : -228,
+            "posY" : 185,
+            "width" : 196,
+            "height" : 30,
+            imageWidth : 100,
+            imageHeight : 50,
+            "alignment" : "top_center",
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "s69.alehousegaming.com"
+            }
+        },
+
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 16776960,
+            "texture" : "menu:btn.png",
+            "posX" : -228,
+            "posY" : 215,
+            "width" : 196,
+            "height" : 30,
+            imageWidth : 100,
+            imageHeight : 50,
+            "alignment" : "top_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "",
+           "posX" : -119,
+            "posY" : -40,
+            "width" : 25,
+            "height" : 25,
+            "imageWidth" : 1024,
+            "imageHeight" : 1024,
+            "alignment" : "bottom_center",
+            "texture" : "menu:mods.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "",
+            "posX" : -69,
+            "posY" : -40,
+            "width" : 25,
+            "height" : 25,
+            "imageWidth" : 256,
+            "imageHeight" : 256,
+            "alignment" : "bottom_center",
+            "texture" : "menu:settings.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 16776960,
+            "texture" : "menu:btn.png",
+            "posX" : -228,
+            "posY" : -80,
+            "width" : 196,
+            "height" : 30,
+            imageWidth : 100,
+            imageHeight : 50,
+            "alignment" : "bottom_center",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : -170,
+            "posY" : -40,
+            "width" : 25,
+            "height" : 25,
+            "imageWidth" : 800,
+            "imageHeight" : 800,
+            "alignment" : "bottom_center",
+            "texture" : "menu:language.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -220,
+            "posY" : -40,
+            "width" : 25,
+            "height" : 25,
+            "imageWidth" : 512,
+            "imageHeight" : 512,
+            "alignment" : "bottom_center",
+            "texture" : "menu:refresh.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    
+     "labels":
+    {
+              
+        "packTxt":
+        {
+            "text" : "Ale Pack - 0.1.5a - Public Test build 20/10/2020 21:49",
+            "posX" : 2,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : -80,
+            "posY" : 100,
+            "color" : -256,
+            "alignment" : "top_center",
+            "texts" : "file:menu:splashes.txt"
+        },
+        
+        "background":
+        {
+            "image" : "menu:bg.png",
+            "mode" : "fill"
+        }
+    }
+}
