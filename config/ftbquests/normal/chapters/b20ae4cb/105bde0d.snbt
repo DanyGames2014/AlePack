@@ -1,0 +1,32 @@
+{
+	x: -2.5d,
+	y: -1.0d,
+	shape: "hexagon",
+	dependencies: [
+		"3fdd7f23"
+	],
+	optional: true,
+	tasks: [{
+		uid: "ec817ff3",
+		type: "item",
+		items: [{
+			item: "minecraft:gold_ore"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "6d06dcec",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:tool.fishing_rod_gold"
+		}
+	},
+	{
+		uid: "169c236d",
+		type: "item",
+		item: "minecraft:gold_block"
+	}]
+}
