@@ -1,0 +1,33 @@
+
+# First, ignore everything
+*
+
+# Now, whitelist anything that's a directory
+!*/
+
+# And all the file types you're interested in.
+!.gitignore
+
+
+#--------CONFIG--------#
+#files in config
+!config/*.*
+
+#everything else in config
+!config/**
+
+
+#--------LOCAL--------#
+#files in local
+!local/*.*
+
+#everything else in local
+!local/**
+
+
+#--------SCRIPTS--------#
+#files in scripts
+!scripts/*.*
+
+#everything else in scripts
+!scripts/**
