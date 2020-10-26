@@ -1,4 +1,5 @@
 {
+	title: "Make your first train",
 	icon: {
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
@@ -13,6 +14,9 @@
 	},
 	x: -17.0d,
 	y: 2.0d,
+	dependencies: [
+		"b87fceba"
+	],
 	tasks: [{
 		uid: "8c89ed00",
 		type: "checkmark",
@@ -28,5 +32,11 @@
 				}
 			}
 		}
+	}],
+	rewards: [{
+		uid: "169bcdc1",
+		type: "item",
+		item: "thermalfoundation:material 1 160",
+		count: 16
 	}]
 }

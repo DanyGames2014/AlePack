@@ -6,9 +6,8 @@
 		type: "checkmark"
 	}],
 	rewards: [{
-		uid: "88a7fdf5",
-		type: "item",
-		item: "modcurrency:banknote 1 2",
-		count: 2
+		uid: "a75327d5",
+		type: "loot",
+		table: 0
 	}]
 }
