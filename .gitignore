@@ -21,8 +21,10 @@
 #files in local
 !local/*.*
 
-#everything else in local
-!local/**
+#everything else in local (no client stuff)
+!local/ftbquests/**
+!local/ftbutilities/**
+
 
 
 #--------SCRIPTS--------#
