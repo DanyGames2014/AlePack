@@ -1,0 +1,54 @@
+{
+	title: "Random Space ",
+	icon: "openmodularturrets:ammo_meta 1 4",
+	loot_size: 1,
+	rewards: [{
+		item: "advancedrocketry:advrocketmotor"
+	},
+	{
+		item: "advancedrocketry:aliensapling",
+		weight: 7
+	},
+	{
+		item: "advancedrocketry:rocketbuilder"
+	},
+	{
+		item: "advancedrocketry:fuelingstation"
+	},
+	{
+		item: "advancedrocketry:chemicalreactor"
+	},
+	{
+		item: "advancedrocketry:circlelight",
+		weight: 12
+	},
+	{
+		item: "advancedrocketry:moonturf",
+		weight: 5
+	},
+	{
+		item: "advancedrocketry:moonturf_dark",
+		weight: 5
+	},
+	{
+		item: {
+			id: "advancedrocketry:bucketrocketfuel",
+			tag: {
+				Fluid: {
+					FluidName: "rocketfuel",
+					Amount: 1000
+				}
+			}
+		},
+		count: 16,
+		weight: 9
+	},
+	{
+		item: "libvulpes:ore0",
+		count: 5
+	},
+	{
+		item: "libvulpes:productgem",
+		count: 10
+	}]
+}
