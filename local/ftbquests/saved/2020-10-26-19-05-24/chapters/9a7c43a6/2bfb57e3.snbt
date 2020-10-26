@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: -3.0d,
+	dependencies: [
+		"755bbcd3"
+	],
+	tasks: [{
+		uid: "5b67057b",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:rollingmachine"
+		}]
+	}],
+	rewards: [{
+		uid: "cb6c8fd4",
+		type: "choice",
+		table: 2
+	}]
+}

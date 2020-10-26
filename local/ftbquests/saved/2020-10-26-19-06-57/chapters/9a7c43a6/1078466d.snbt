@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: 2.0d,
+	dependencies: [
+		"f6742a62"
+	],
+	tasks: [{
+		uid: "781a2967",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:lathe"
+		}]
+	}],
+	rewards: [{
+		uid: "924fe163",
+		type: "random",
+		table: 1
+	}]
+}

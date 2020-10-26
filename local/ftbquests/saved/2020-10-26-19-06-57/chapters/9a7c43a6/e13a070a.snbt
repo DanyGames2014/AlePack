@@ -1,0 +1,17 @@
+{
+	x: -3.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "cc97dc6a",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:platepress"
+		}]
+	}],
+	rewards: [{
+		uid: "10de2033",
+		type: "item",
+		item: "libvulpes:productingot 1 7",
+		count: 8
+	}]
+}

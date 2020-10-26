@@ -1,0 +1,20 @@
+{
+	x: -1.0d,
+	y: 2.0d,
+	dependencies: [
+		"e13a070a"
+	],
+	tasks: [{
+		uid: "6f6180e0",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:arcfurnace"
+		}]
+	}],
+	rewards: [{
+		uid: "20ae32ba",
+		type: "item",
+		item: "thermalfoundation:material 1 160",
+		count: 8
+	}]
+}

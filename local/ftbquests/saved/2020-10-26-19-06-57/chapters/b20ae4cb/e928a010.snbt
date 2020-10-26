@@ -1,0 +1,13 @@
+{
+	x: -2.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "c84357a5",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "a75327d5",
+		type: "loot",
+		table: 0
+	}]
+}

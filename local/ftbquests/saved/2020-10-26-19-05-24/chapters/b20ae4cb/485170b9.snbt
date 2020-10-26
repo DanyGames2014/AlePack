@@ -1,0 +1,20 @@
+{
+	x: -1.5d,
+	y: -2.0d,
+	shape: "hexagon",
+	optional: true,
+	tasks: [{
+		uid: "c27c4f53",
+		type: "item",
+		items: [{
+			item: "minecraft:coal"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "1479a18c",
+		type: "item",
+		item: "minecraft:coal_block",
+		count: 4
+	}]
+}

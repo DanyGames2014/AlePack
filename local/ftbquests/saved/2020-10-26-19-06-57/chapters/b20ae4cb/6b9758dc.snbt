@@ -1,0 +1,21 @@
+{
+	x: 0.5d,
+	y: 0.5d,
+	shape: "gear",
+	dependencies: [
+		"e928a010"
+	],
+	tasks: [{
+		uid: "e9ba543f",
+		type: "item",
+		items: [{
+			item: "minecraft:furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "6547f3d8",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 8
+	}]
+}

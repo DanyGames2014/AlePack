@@ -1,0 +1,18 @@
+{
+	x: 4.5d,
+	y: 0.5d,
+	dependencies: [
+		"2158802f"
+	],
+	tasks: [{
+		uid: "709c314c",
+		type: "xp",
+		value: 6L,
+		points: false
+	}],
+	rewards: [{
+		uid: "d722fe0a",
+		type: "xp_levels",
+		xp_levels: 12
+	}]
+}
