@@ -1,0 +1,11 @@
+{
+	x: 13.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "daecbfad",
+		type: "item",
+		items: [{
+			item: "tconstruct:casting 1 1"
+		}]
+	}]
+}
