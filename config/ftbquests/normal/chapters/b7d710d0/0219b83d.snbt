@@ -1,0 +1,21 @@
+{
+	x: 4.5d,
+	y: -5.0d,
+	dependencies: [
+		"fa158449"
+	],
+	tasks: [{
+		uid: "d71c50de",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -6218491617995198631L,
+					AS_Amulet_HolderMost: 6725941732691952930L
+				}
+			},
+			id: "extrautils2:goldenlasso"
+		}],
+		ignore_nbt: 1b
+	}]
+}

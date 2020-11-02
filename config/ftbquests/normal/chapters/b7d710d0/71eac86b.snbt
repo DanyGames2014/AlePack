@@ -1,14 +1,14 @@
 {
-	x: 5.0d,
-	y: -2.0d,
+	x: 6.0d,
+	y: -3.0d,
 	dependencies: [
 		"fa158449"
 	],
 	tasks: [{
-		uid: "0f952ddb",
+		uid: "990fca25",
 		type: "item",
 		items: [{
-			item: "extrautils2:passivegenerator 1 7"
+			item: "extrautils2:drum"
 		}]
 	}]
 }

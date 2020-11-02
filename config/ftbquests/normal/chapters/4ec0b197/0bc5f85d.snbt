@@ -1,0 +1,32 @@
+{
+	title: "the Wrold Wide Web",
+	x: 0.0d,
+	y: 0.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"9eae4840"
+	],
+	tasks: [{
+		uid: "8c65a979",
+		type: "item",
+		items: [{
+			item: "computercraft:advanced_modem"
+		}]
+	}],
+	rewards: [{
+		uid: "6ce3938a",
+		type: "item",
+		item: {
+			id: "minecraft:written_book",
+			tag: {
+				pages: [
+					"{\"text\":\"Thank you for using\\nSlothTel\\n\\nService :\\n10/5 Mbit ADSL\\n499.95$\\n\\n\\nIf you have any complaints, we don\\u0027t care\"}"
+				],
+				author: "Slothdough",
+				title: "Internet Bill"
+			}
+		}
+	}]
+}

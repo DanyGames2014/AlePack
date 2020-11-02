@@ -1,6 +1,6 @@
 {
-	title: "MAGIC",
-	icon: "botania:altar 1 2",
+	title: "Magic",
+	icon: "ebwizardry:grand_crystal",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""
