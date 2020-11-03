@@ -1,0 +1,24 @@
+{
+	x: -11.5d,
+	y: 0.5d,
+	text: [
+		"A basic Tier 1 setup without internal components"
+	],
+	dependencies: [
+		"7c811802"
+	],
+	tasks: [{
+		uid: "f8e5ce4c",
+		type: "item",
+		items: [{
+			item: "opencomputers:case1"
+		}]
+	},
+	{
+		uid: "6c48b55a",
+		type: "item",
+		items: [{
+			item: "opencomputers:screen1"
+		}]
+	}]
+}

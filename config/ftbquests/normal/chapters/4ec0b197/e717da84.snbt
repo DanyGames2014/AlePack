@@ -1,0 +1,26 @@
+{
+	title: "Audio System",
+	x: -16.0d,
+	y: 3.5d,
+	description: "ALL THAT BASS",
+	text: [
+		""
+	],
+	dependencies: [
+		"fa3635ee"
+	],
+	tasks: [{
+		uid: "3d9bd404",
+		type: "item",
+		items: [{
+			item: "computronics:audio_cable"
+		}]
+	},
+	{
+		uid: "971b7d13",
+		type: "item",
+		items: [{
+			item: "computronics:speaker"
+		}]
+	}]
+}

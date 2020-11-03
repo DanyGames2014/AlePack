@@ -1,0 +1,21 @@
+{
+	x: -13.0d,
+	y: 0.5d,
+	dependencies: [
+		"fa489866"
+	],
+	tasks: [{
+		uid: "d0621f26",
+		type: "item",
+		items: [{
+			item: "opencomputers:diskdrive"
+		}]
+	},
+	{
+		uid: "cf45b096",
+		type: "item",
+		items: [{
+			item: "opencomputers:keyboard"
+		}]
+	}]
+}

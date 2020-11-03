@@ -1,0 +1,36 @@
+{
+	x: -8.5d,
+	y: -1.0d,
+	dependencies: [
+		"6d0cb7ce"
+	],
+	tasks: [{
+		uid: "a616d56c",
+		type: "item",
+		items: [{
+			item: "opencomputers:component 1 2"
+		}]
+	},
+	{
+		uid: "81362f31",
+		type: "item",
+		items: [{
+			item: "opencomputers:card 1 3"
+		}]
+	},
+	{
+		uid: "605d4ab2",
+		type: "item",
+		items: [{
+			item: "opencomputers:component 1 11"
+		}],
+		count: 2L
+	},
+	{
+		uid: "f9c7ca41",
+		type: "item",
+		items: [{
+			item: "opencomputers:storage 1 4"
+		}]
+	}]
+}
