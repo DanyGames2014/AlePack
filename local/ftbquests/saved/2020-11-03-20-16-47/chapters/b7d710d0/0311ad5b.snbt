@@ -1,0 +1,28 @@
+{
+	x: 9.0d,
+	y: -2.5d,
+	dependencies: [
+		"7b5d6759"
+	],
+	tasks: [{
+		uid: "1df29b6b",
+		type: "item",
+		items: [{
+			item: "extrautils2:user"
+		}]
+	},
+	{
+		uid: "42f68b82",
+		type: "item",
+		items: [{
+			item: "extrautils2:miner"
+		}]
+	},
+	{
+		uid: "3fb0473a",
+		type: "item",
+		items: [{
+			item: "extrautils2:crafter"
+		}]
+	}]
+}

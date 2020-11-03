@@ -1,0 +1,40 @@
+{
+	title: "Intermediate Runes",
+	x: 2.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "7eca71e5",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 4"
+		}]
+	},
+	{
+		uid: "cc857751",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 5"
+		}]
+	},
+	{
+		uid: "dec73b38",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 6"
+		}]
+	},
+	{
+		uid: "0b7e6641",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 7"
+		}]
+	},
+	{
+		uid: "b4625ac9",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 8"
+		}]
+	}]
+}

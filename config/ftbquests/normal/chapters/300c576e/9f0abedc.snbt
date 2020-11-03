@@ -1,0 +1,33 @@
+{
+	title: "Basic Runes",
+	x: -0.5d,
+	y: 3.5d,
+	tasks: [{
+		uid: "d39235c4",
+		type: "item",
+		items: [{
+			item: "botania:rune"
+		}]
+	},
+	{
+		uid: "9d2532f6",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 1"
+		}]
+	},
+	{
+		uid: "6ecb2874",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 2"
+		}]
+	},
+	{
+		uid: "5215220e",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 3"
+		}]
+	}]
+}

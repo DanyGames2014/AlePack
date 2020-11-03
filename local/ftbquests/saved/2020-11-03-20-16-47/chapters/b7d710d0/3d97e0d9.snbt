@@ -1,0 +1,18 @@
+{
+	x: 12.0d,
+	y: -2.0d,
+	dependencies: [
+		"95e292bf"
+	],
+	tasks: [{
+		uid: "201389ad",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:angelring"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	x: -1.0d,
+	y: -2.0d,
+	text: [
+		"Entire computer in your pocket ?!",
+		"Is this future ? No, PDAs are here from the 90s"
+	],
+	dependencies: [
+		"0a8ec6f5"
+	],
+	tasks: [{
+		uid: "474804cd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "computercraft:pocket_computer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cf5aeda2",
+		type: "random",
+		table: 3
+	}]
+}

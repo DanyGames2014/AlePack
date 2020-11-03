@@ -1,0 +1,26 @@
+{
+	title: "Basic Computer",
+	x: -2.0d,
+	y: 0.0d,
+	text: [
+		"Your average school PC",
+		"Can't play cool math games tho"
+	],
+	tasks: [{
+		uid: "6fa47fe6",
+		type: "item",
+		items: [{
+			item: "computercraft:computer"
+		}]
+	}],
+	rewards: [{
+		uid: "1462498b",
+		type: "item",
+		item: "modcurrency:banknote 1 1"
+	},
+	{
+		uid: "232fe68c",
+		type: "random",
+		table: 3
+	}]
+}

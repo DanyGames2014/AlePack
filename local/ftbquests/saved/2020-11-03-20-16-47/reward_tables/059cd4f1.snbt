@@ -1,0 +1,238 @@
+{
+	title: "Computer Loot",
+	loot_size: 1,
+	rewards: [{
+		item: {
+			id: "computercraft:turtle_expanded",
+			tag: {
+				rightUpgrade: "computercraft:wireless_modem"
+			}
+		}
+	},
+	{
+		item: "computercraft:computer"
+	},
+	{
+		item: "computercraft:computer 1 16384"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "computercraft:pocket_computer",
+			tag: {
+				computerID: 2,
+				instanceID: 2,
+				sessionID: -1679409245
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "computercraft:pocket_computer",
+			tag: {
+				computerID: 3,
+				instanceID: 3,
+				sessionID: -1679409245
+			},
+			Damage: 1s
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "computercraft:pocket_computer",
+			tag: {
+				computerID: 4,
+				instanceID: 4,
+				upgrade: "computercraft:advanced_modem",
+				sessionID: -1679409245
+			},
+			Damage: 1s
+		}
+	},
+	{
+		item: "plethora:module 1 2"
+	},
+	{
+		item: {
+			id: "computercraft:turtle_advanced",
+			tag: {}
+		}
+	},
+	{
+		item: "plethora:module 1 3"
+	},
+	{
+		item: "plethora:module 1 1"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "plethora:neuralinterface",
+			tag: {}
+		}
+	},
+	{
+		item: "modcurrency:coin 1 4"
+	},
+	{
+		item: {
+			id: "computercraft:turtle_advanced",
+			tag: {
+				rightUpgrade: "minecraft:diamond_pickaxe"
+			}
+		}
+	},
+	{
+		item: {
+			id: "computercraft:turtle_expanded",
+			tag: {}
+		}
+	},
+	{
+		item: {
+			id: "computercraft:turtle_expanded",
+			tag: {
+				rightUpgrade: "minecraft:diamond_pickaxe"
+			}
+		}
+	},
+	{
+		item: {
+			id: "computercraft:turtle_expanded",
+			tag: {
+				rightUpgrade: "minecraft:diamond_sword"
+			}
+		}
+	},
+	{
+		item: {
+			id: "computercraft:turtle_expanded",
+			tag: {
+				rightUpgrade: "computercraft:advanced_modem"
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "computercraft:pocket_computer",
+			tag: {
+				computerID: 1,
+				instanceID: 1,
+				upgrade: "computercraft:advanced_modem",
+				sessionID: -1679409245
+			},
+			Damage: 1s
+		}
+	},
+	{
+		item: "computercraft:peripheral 1 3"
+	},
+	{
+		item: "computercraft:peripheral"
+	},
+	{
+		item: "computercraft:peripheral 1 4"
+	},
+	{
+		item: "computercraft:advanced_modem"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "computercraft:disk_expanded",
+			tag: {
+				color: 5000268
+			}
+		}
+	},
+	{
+		item: "computercraft:peripheral 1 5"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "computercraft:pocket_computer",
+			tag: {
+				computerID: 0,
+				instanceID: 0,
+				sessionID: -1679409245
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "computercraft:pocket_computer",
+			tag: {
+				computerID: 5,
+				instanceID: 5,
+				upgrade: "computercraft:speaker",
+				sessionID: -1679409245
+			},
+			Damage: 1s
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "computercraft:disk_expanded",
+			tag: {
+				color: 1118481
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "computercraft:disk_expanded",
+			tag: {
+				color: 8375321
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "computercraft:disk_expanded",
+			tag: {
+				color: 3368652
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "computercraft:disk_expanded",
+			tag: {
+				color: 10072818
+			}
+		}
+	}]
+}
