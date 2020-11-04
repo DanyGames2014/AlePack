@@ -2,6 +2,6 @@
 	title: "Advanced technology",
 	icon: "thermalfoundation:material 1 26",
 	always_invisible: false,
-	group: 0,
+	group: -1210642224,
 	default_quest_shape: ""
 }

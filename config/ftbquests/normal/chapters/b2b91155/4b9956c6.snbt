@@ -1,0 +1,15 @@
+{
+	title: "Crystal purity",
+	x: -2.5d,
+	y: -2.0d,
+	text: [
+		"if you have a maximum size crystal it can split into two with higher purity if you keep it bathing in liquid starlight."
+	],
+	dependencies: [
+		"615db586"
+	],
+	tasks: [{
+		uid: "eac598c9",
+		type: "checkmark"
+	}]
+}
