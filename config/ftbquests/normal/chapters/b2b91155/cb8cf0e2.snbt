@@ -1,0 +1,28 @@
+{
+	x: -4.5d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"You will need this wand to basically craft anything in all the altars.",
+		"Just place the recipe inside the altar close it and right-click it with the wand."
+	],
+	dependencies: [
+		"40d43b76"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "8f44b7d0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemwand",
+			tag: {
+				astralsorcery: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

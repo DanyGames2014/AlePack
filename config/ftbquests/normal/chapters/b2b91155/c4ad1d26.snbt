@@ -1,0 +1,25 @@
+{
+	x: 5.5d,
+	y: 0.0d,
+	text: [
+		"A giant multiblock which you can use to infuse yourself and your crystal with the powers of constellatinons."
+	],
+	dependencies: [
+		"3a561a9c"
+	],
+	tasks: [{
+		uid: "40aaf34d",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockattunementaltar"
+		}]
+	},
+	{
+		uid: "300e0d0e",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockattunementrelay"
+		}],
+		count: 10L
+	}]
+}
