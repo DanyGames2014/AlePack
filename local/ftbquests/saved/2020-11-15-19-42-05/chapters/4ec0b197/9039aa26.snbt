@@ -1,0 +1,28 @@
+{
+	x: -16.0d,
+	y: -1.5d,
+	text: [
+		"Basic but powerful Unix like OS"
+	],
+	dependencies: [
+		"27e1de4d"
+	],
+	tasks: [{
+		uid: "733276a9",
+		type: "item",
+		items: [{
+			id: "opencomputers:storage",
+			tag: {
+				"oc:data": {
+					"oc:fs.label": "openos"
+				},
+				"oc:color": 2,
+				display: {
+					Name: "OpenOS (Operating System)"
+				},
+				"oc:lootFactory": "opencomputers:openos"
+			},
+			Damage: 1s
+		}]
+	}]
+}

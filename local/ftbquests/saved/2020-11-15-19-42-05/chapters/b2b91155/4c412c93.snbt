@@ -1,0 +1,31 @@
+{
+	x: -7.5d,
+	y: 0.0d,
+	text: [
+		"To start with AstralSorcery you need to find a big marble temple with a floating crystal inside."
+	],
+	tasks: [{
+		uid: "28ddcc2f",
+		type: "checkmark",
+		title: "Fallen down",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:blockcollectorcrystal",
+			tag: {
+				astralsorcery: {
+					constellationName: "astralsorcery.constellation.discidia",
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 400,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					},
+					collectorType: 0
+				}
+			}
+		}
+	}]
+}

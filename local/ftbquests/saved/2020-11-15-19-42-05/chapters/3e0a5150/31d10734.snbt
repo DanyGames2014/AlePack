@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: -4.0d,
+	dependencies: [
+		"bfefe9f6"
+	],
+	tasks: [{
+		uid: "5e0b34ed",
+		type: "item",
+		items: [{
+			item: "twilightforest:fiery_blood"
+		}]
+	}]
+}

@@ -1,0 +1,10 @@
+{
+	x: 0.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "3cb114d8",
+		type: "kill",
+		entity: "twilightforest:snow_queen",
+		value: 1L
+	}]
+}

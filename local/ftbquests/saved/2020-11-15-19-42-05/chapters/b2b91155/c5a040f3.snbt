@@ -1,0 +1,22 @@
+{
+	x: 1.5d,
+	y: -1.5d,
+	text: [
+		"Tool used to link collector crystals and lenses."
+	],
+	dependencies: [
+		"3e907c7c"
+	],
+	tasks: [{
+		uid: "b089d6a2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemlinkingtool"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,10 @@
+{
+	icon: "midnight:midnight_grass",
+	x: 0.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "519fa0db",
+		type: "dimension",
+		dim: -23
+	}]
+}

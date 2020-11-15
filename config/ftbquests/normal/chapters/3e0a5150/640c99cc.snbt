@@ -1,0 +1,14 @@
+{
+	x: 5.0d,
+	y: 3.0d,
+	text: [
+		"You get many different items from this boss. So get the chest and tick the checkmark"
+	],
+	dependencies: [
+		"6cef5393"
+	],
+	tasks: [{
+		uid: "e2f7c43c",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,10 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "be372d52",
+		type: "kill",
+		entity: "twilightforest:naga",
+		value: 1L
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -2.5d,
+	y: 0.0d,
+	description: "It is a 0/5 ;) some people will get it....",
+	text: [
+		"You can put Aquamarine into the ligwells to get starlight, it is very usefull.",
+		"BTW when u stand in it you get night vision."
+	],
+	dependencies: [
+		"cb8cf0e2"
+	],
+	tasks: [{
+		uid: "de3885df",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockwell"
+		}]
+	}]
+}

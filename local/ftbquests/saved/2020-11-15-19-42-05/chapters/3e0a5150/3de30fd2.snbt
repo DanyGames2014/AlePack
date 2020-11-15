@@ -1,0 +1,15 @@
+{
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "twilightforest:twilight_scepter"
+	},
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "7c846c5d",
+		type: "dimension",
+		dim: 7
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -6.0d,
+	y: -6.0d,
+	text: [
+		"Horologium us a constellation that should apear every 8 or 36 days in the sky, this is a very powerfull attunment.",
+		"The ritual can tick accelerate almost every block and the enchantments can get you fortune 6 or other crazy stuff."
+	],
+	dependencies: [
+		"70791b43"
+	],
+	tasks: [{
+		uid: "e622947d",
+		type: "checkmark",
+		title: "Horologium"
+	}]
+}

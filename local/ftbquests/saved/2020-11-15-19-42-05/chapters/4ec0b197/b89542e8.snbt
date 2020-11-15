@@ -1,0 +1,18 @@
+{
+	title: "Internetz",
+	x: -14.5d,
+	y: -2.0d,
+	text: [
+		"Internet card will allow you to estabilish connections to the outside internet"
+	],
+	dependencies: [
+		"fa489866"
+	],
+	tasks: [{
+		uid: "9037a816",
+		type: "item",
+		items: [{
+			item: "opencomputers:card 1 8"
+		}]
+	}]
+}
