@@ -195,7 +195,7 @@
             "posY" : 100,
             "color" : -256,
             "alignment" : "top_center",
-            "texts" : "file:menu:splashes.txt"
+            "texts" : "menu:splashes.txt"
         },
         
         "background":
