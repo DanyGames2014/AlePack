@@ -1,0 +1,10 @@
+{
+	icon: "minecraft:end_stone",
+	x: -2.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "271ffe37",
+		type: "dimension",
+		dim: 1
+	}]
+}

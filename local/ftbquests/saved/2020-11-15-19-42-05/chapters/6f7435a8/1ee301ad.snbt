@@ -1,4 +1,5 @@
 {
+	icon: "minecraft:netherrack",
 	x: -2.0d,
 	y: 1.0d,
 	tasks: [{
