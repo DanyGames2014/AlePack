@@ -1,0 +1,15 @@
+{
+	title: "War on stars",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "astralsorcery:itemshiftingstar",
+		tag: {
+			astralsorcery: {}
+		}
+	},
+	always_invisible: true,
+	group: 806115182,
+	default_quest_shape: ""
+}

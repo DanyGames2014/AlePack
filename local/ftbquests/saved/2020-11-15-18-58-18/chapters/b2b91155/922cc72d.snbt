@@ -1,0 +1,28 @@
+{
+	x: 1.0d,
+	y: -3.0d,
+	text: [
+		"Craft a set of lenses, the better crystal inside them the better they are."
+	],
+	dependencies: [
+		"c5a040f3"
+	],
+	tasks: [{
+		uid: "c06211dc",
+		type: "item",
+		items: [{
+			id: "astralsorcery:blocklens",
+			tag: {
+				astralsorcery: {
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 900,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					}
+				}
+			}
+		}]
+	}]
+}

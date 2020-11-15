@@ -1,0 +1,10 @@
+{
+	x: -2.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "89e1fd32",
+		type: "checkmark",
+		title: "Visit The End",
+		icon: "minecraft:ender_eye"
+	}]
+}

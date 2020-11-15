@@ -1,0 +1,10 @@
+{
+	x: -5.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "084ce9a5",
+		type: "custom",
+		title: "Visit neather fortress",
+		icon: "minecraft:nether_brick"
+	}]
+}

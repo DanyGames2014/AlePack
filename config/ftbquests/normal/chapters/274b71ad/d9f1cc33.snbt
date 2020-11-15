@@ -1,0 +1,10 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "cf29005a",
+		type: "checkmark",
+		title: "Visit the Midnight",
+		icon: "midnight:midnight_grass"
+	}]
+}

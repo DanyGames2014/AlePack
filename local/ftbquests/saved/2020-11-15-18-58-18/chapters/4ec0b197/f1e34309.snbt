@@ -1,0 +1,26 @@
+{
+	title: "Walkman",
+	x: -14.5d,
+	y: 3.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"fa3635ee"
+	],
+	tasks: [{
+		uid: "443b5f7f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "computronics:portable_tape_drive",
+			tag: {
+				tid: "8243a795-b6e2-4d23-aa37-b76ab8a14f46"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

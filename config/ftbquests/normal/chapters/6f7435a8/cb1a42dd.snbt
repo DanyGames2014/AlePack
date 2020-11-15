@@ -1,0 +1,10 @@
+{
+	x: -11.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "62b43bcc",
+		type: "kill",
+		entity: "minecraft:wither_skeleton",
+		value: 10L
+	}]
+}

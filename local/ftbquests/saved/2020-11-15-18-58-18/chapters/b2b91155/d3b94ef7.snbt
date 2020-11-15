@@ -1,0 +1,28 @@
+{
+	x: -0.5d,
+	y: -6.5d,
+	text: [
+		"A lense you can link to multiple blocks with just one lens, just you heard me right."
+	],
+	dependencies: [
+		"47bc5393"
+	],
+	tasks: [{
+		uid: "6d9056dd",
+		type: "item",
+		items: [{
+			id: "astralsorcery:blockprism",
+			tag: {
+				astralsorcery: {
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 900,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					}
+				}
+			}
+		}]
+	}]
+}

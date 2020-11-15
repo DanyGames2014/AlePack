@@ -1,0 +1,91 @@
+{
+	x: 3.5d,
+	y: 1.0d,
+	text: [
+		"Papres you need in order to find the constellations, you can store them in the book if you shift-right-click it"
+	],
+	dependencies: [
+		"3a561a9c"
+	],
+	optional: true,
+	tasks: [{
+		uid: "ee3dae95",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemconstellationpaper",
+			tag: {
+				astralsorcery: {
+					constellationName: "astralsorcery.constellation.discidia"
+				}
+			}
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "5019a207",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemconstellationpaper",
+			tag: {
+				astralsorcery: {
+					constellationName: "astralsorcery.constellation.armara"
+				}
+			}
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "7ac9631a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemconstellationpaper",
+			tag: {
+				astralsorcery: {
+					constellationName: "astralsorcery.constellation.vicio"
+				}
+			}
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "0097bf99",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemconstellationpaper",
+			tag: {
+				astralsorcery: {
+					constellationName: "astralsorcery.constellation.aevitas"
+				}
+			}
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "d4c6bc34",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemconstellationpaper",
+			tag: {
+				astralsorcery: {
+					constellationName: "astralsorcery.constellation.evorsio"
+				}
+			}
+		}],
+		ignore_nbt: 2b
+	}]
+}

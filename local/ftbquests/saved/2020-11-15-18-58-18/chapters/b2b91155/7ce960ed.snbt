@@ -1,0 +1,36 @@
+{
+	x: -4.0d,
+	y: -6.0d,
+	text: [
+		"Create a floating crystal if you use it only for strarlight than dont worry about the attunments.",
+		"But if you want to do a ritual with it, pick carefully what effect you want."
+	],
+	dependencies: [
+		"ebd52eb0",
+		"a3a8da85"
+	],
+	tasks: [{
+		uid: "079a4c1f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:blockcelestialcollectorcrystal",
+			tag: {
+				astralsorcery: {
+					constellationName: "astralsorcery.constellation.discidia",
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 900,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					},
+					collectorType: 1
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

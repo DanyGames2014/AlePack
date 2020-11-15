@@ -1,0 +1,18 @@
+{
+	x: 1.0d,
+	y: -8.5d,
+	text: [
+		"Starlight infuser is a multiblock structure that will ease you life and allow you to infuse some stuff with starlight.",
+		"But watchout for the liquid starlight from the multiblock can disapear."
+	],
+	dependencies: [
+		"47bc5393"
+	],
+	tasks: [{
+		uid: "73d4faa5",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockstarlightinfuser"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	title: "RTFM",
+	x: -16.0d,
+	y: 0.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "59568f79",
+		type: "item",
+		items: [{
+			item: "opencomputers:tool 1 4"
+		}]
+	}]
+}
