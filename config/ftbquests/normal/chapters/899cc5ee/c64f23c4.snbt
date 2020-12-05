@@ -1,0 +1,15 @@
+{
+	title: "Thermite?",
+	x: -4.0d,
+	y: 2.5d,
+	dependencies: [
+		"9d676365"
+	],
+	tasks: [{
+		uid: "451a0dea",
+		type: "item",
+		items: [{
+			item: "forestry:fabricator"
+		}]
+	}]
+}

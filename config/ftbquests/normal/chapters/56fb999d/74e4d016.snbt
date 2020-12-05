@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "6de6c195",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "cyclicmagic:tool_torch_launcher"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

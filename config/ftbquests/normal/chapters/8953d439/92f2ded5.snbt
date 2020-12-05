@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "d4c0475a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:armor.legs_invar"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

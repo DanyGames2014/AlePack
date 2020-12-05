@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "6f714db4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "cyclicmagic:glove_climb",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

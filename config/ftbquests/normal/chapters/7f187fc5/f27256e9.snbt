@@ -1,0 +1,16 @@
+{
+	x: -1.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "e6644489",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tp:bsc_iron_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

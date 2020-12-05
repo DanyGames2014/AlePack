@@ -1,0 +1,15 @@
+{
+	title: "The end?",
+	icon: "minecraft:end_bricks",
+	x: 3.5d,
+	y: -5.5d,
+	dependencies: [
+		"3d3ab9c6",
+		"a11a11e1"
+	],
+	tasks: [{
+		uid: "bb102379",
+		type: "dimension",
+		dim: 1
+	}]
+}

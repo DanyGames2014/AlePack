@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "e8a137c2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "baublelicious:itemspeedbelt"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

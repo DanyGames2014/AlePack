@@ -1,0 +1,13 @@
+{
+	x: 1.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "e88885c4",
+		type: "item",
+		title: "Skulls",
+		items: [{
+			item: "minecraft:skull 1 1"
+		}],
+		count: 3L
+	}]
+}

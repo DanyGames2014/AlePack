@@ -1,0 +1,65 @@
+{
+	title: "The art of farming",
+	x: -5.0d,
+	y: 4.5d,
+	text: [
+		"This is a multiblock that can farm anything, even cropsticks you just have to cunfigure it."
+	],
+	dependencies: [
+		"d1a03caa"
+	],
+	tasks: [{
+		uid: "264b2323",
+		type: "item",
+		items: [{
+			id: "forestry:ffarm",
+			tag: {
+				FarmBlock: 0
+			}
+		}]
+	},
+	{
+		uid: "62053cf7",
+		type: "item",
+		items: [{
+			id: "forestry:ffarm",
+			tag: {
+				FarmBlock: 0
+			},
+			Damage: 4s
+		}]
+	},
+	{
+		uid: "73f4f692",
+		type: "item",
+		items: [{
+			id: "forestry:ffarm",
+			tag: {
+				FarmBlock: 0
+			},
+			Damage: 2s
+		}]
+	},
+	{
+		uid: "30679bf3",
+		type: "item",
+		items: [{
+			id: "forestry:ffarm",
+			tag: {
+				FarmBlock: 0
+			},
+			Damage: 3s
+		}]
+	},
+	{
+		uid: "86cf1060",
+		type: "item",
+		items: [{
+			id: "forestry:ffarm",
+			tag: {
+				FarmBlock: 0
+			},
+			Damage: 5s
+		}]
+	}]
+}

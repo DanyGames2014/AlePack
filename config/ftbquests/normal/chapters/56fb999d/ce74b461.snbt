@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "a9ea2ab9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:magnet_ring_bauble",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_nbt: 2b
+	}]
+}

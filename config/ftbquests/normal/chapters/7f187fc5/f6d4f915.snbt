@@ -1,0 +1,20 @@
+{
+	x: -2.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "dc770d88",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 4,
+					Items: []
+				},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:chemthrower"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

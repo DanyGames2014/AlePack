@@ -1,0 +1,16 @@
+{
+	x: -1.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "33681b00",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderio:item_end_steel_bow"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

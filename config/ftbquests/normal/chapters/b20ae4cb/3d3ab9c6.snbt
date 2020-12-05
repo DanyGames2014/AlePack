@@ -1,0 +1,14 @@
+{
+	title: "Going to the nether",
+	icon: "minecraft:netherrack",
+	x: 5.0d,
+	y: -5.5d,
+	dependencies: [
+		"1dfd9d27"
+	],
+	tasks: [{
+		uid: "122ff26a",
+		type: "dimension",
+		dim: -1
+	}]
+}

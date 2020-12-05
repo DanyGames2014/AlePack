@@ -1,0 +1,16 @@
+{
+	title: "Thermal",
+	icon: "thermalexpansion:frame",
+	x: 1.0d,
+	y: -2.5d,
+	dependencies: [
+		"9494bf68"
+	],
+	tasks: [{
+		uid: "9779bfb1",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:frame"
+		}]
+	}]
+}

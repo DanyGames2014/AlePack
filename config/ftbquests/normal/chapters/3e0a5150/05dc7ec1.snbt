@@ -1,17 +1,18 @@
 {
-	x: -6.0d,
-	y: 4.0d,
+	title: "Soup",
+	x: 5.0d,
+	y: 0.0d,
 	dependencies: [
 		"58445a26"
 	],
 	tasks: [{
-		uid: "c9c71655",
+		uid: "1e208b90",
 		type: "item",
 		items: [{
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
 			},
-			id: "twilightforest:minotaur_axe"
+			id: "twilightforest:meef_stroganoff"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

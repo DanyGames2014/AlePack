@@ -1,0 +1,8 @@
+{
+	title: "Magic",
+	icon: "ebwizardry:grand_crystal",
+	disable_toast: true,
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

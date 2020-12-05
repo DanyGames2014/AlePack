@@ -1,0 +1,26 @@
+{
+	x: 0.5d,
+	y: 6.5d,
+	text: [
+		"You need 2 green pylons for the gate and 4 more fot the Gaya bossfight."
+	],
+	dependencies: [
+		"b8b073b9"
+	],
+	tasks: [{
+		uid: "fdad7e13",
+		type: "item",
+		items: [{
+			item: "botania:pylon"
+		}],
+		count: 2L
+	},
+	{
+		uid: "7585d22d",
+		type: "item",
+		items: [{
+			item: "botania:pylon 1 1"
+		}],
+		count: 2L
+	}]
+}

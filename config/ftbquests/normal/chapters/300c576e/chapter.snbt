@@ -1,7 +1,17 @@
 {
-	title: "Magic",
-	icon: "ebwizardry:grand_crystal",
+	title: "Botania",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "botania:lexicon",
+		tag: {
+			knowledge.minecraft: 1b,
+			knowledge.alfheim: 1b,
+			knowledge.relic: 1b
+		}
+	},
 	always_invisible: false,
-	group: 0,
+	group: -1816917836,
 	default_quest_shape: ""
 }

@@ -1,0 +1,21 @@
+{
+	title: "Actually rings",
+	x: -2.0d,
+	y: -1.5d,
+	text: [
+		"Actually additions has all potion affects as rings."
+	],
+	tasks: [{
+		uid: "d38e0b28",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:item_potion_ring",
+			Damage: 5s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

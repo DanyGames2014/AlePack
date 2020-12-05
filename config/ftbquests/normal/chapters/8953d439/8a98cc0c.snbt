@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "4a321fa8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:manasteellegs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

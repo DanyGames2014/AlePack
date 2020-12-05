@@ -1,0 +1,19 @@
+{
+	title: "Better tinkering",
+	x: -0.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "40e2aa9c",
+		type: "item",
+		items: [{
+			item: "tconstruct:ore"
+		}]
+	},
+	{
+		uid: "0a824594",
+		type: "item",
+		items: [{
+			item: "tconstruct:ore 1 1"
+		}]
+	}]
+}

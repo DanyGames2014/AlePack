@@ -1,6 +1,10 @@
 {
 	x: -3.0d,
 	y: -3.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"f6742a62"
+	],
 	tasks: [{
 		uid: "b74df994",
 		type: "item",

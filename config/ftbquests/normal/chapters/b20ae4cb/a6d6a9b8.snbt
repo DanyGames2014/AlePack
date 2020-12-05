@@ -1,14 +1,22 @@
 {
-	x: 13.0d,
-	y: -0.5d,
+	title: "Casting",
+	x: 9.0d,
+	y: 1.5d,
 	dependencies: [
-		"7288a85e"
+		"bc029d42"
 	],
 	tasks: [{
 		uid: "513bc0cc",
 		type: "item",
 		items: [{
 			item: "tconstruct:casting"
+		}]
+	},
+	{
+		uid: "fe5bdafd",
+		type: "item",
+		items: [{
+			item: "tconstruct:casting 1 1"
 		}]
 	}]
 }

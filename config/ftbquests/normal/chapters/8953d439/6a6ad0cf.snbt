@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "8cb41f02",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:item_helm_crystal_red"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

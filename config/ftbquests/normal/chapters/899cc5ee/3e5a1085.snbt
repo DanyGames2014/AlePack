@@ -1,0 +1,23 @@
+{
+	title: "good blend",
+	x: -4.0d,
+	y: -3.5d,
+	dependencies: [
+		"75f8912d",
+		"f8386133"
+	],
+	tasks: [{
+		uid: "1077b06d",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 51"
+		}]
+	},
+	{
+		uid: "1c00e28a",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 52"
+		}]
+	}]
+}

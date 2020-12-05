@@ -1,0 +1,27 @@
+{
+	title: "Infinite lava",
+	x: -4.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	text: [
+		"Please do NOT pump the nether it lags the server and causes problems, so the server provided you with this recipe!"
+	],
+	dependencies: [
+		"9494bf68"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "9a595896",
+		type: "item",
+		items: [{
+			id: "extrautils2:drum",
+			tag: {
+				Fluid: {
+					FluidName: "lava",
+					Amount: 1
+				}
+			},
+			Damage: 4s
+		}]
+	}]
+}

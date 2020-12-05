@@ -1,0 +1,16 @@
+{
+	title: "Spirit of the guardian",
+	x: 1.0d,
+	y: 7.5d,
+	dependencies: [
+		"cf6f9b42"
+	],
+	tasks: [{
+		uid: "68cf013a",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 5"
+		}],
+		count: 8L
+	}]
+}

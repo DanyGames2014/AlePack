@@ -1,0 +1,14 @@
+{
+	x: 3.5d,
+	y: 0.5d,
+	dependencies: [
+		"63cd9d4b"
+	],
+	tasks: [{
+		uid: "2c6db462",
+		type: "item",
+		items: [{
+			item: "extrautils2:teleporter 1 1"
+		}]
+	}]
+}

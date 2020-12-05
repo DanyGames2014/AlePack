@@ -1,0 +1,25 @@
+{
+	x: 1.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "f4084c28",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {},
+				"xat:trinket": {
+					mana: 0,
+					count: 0,
+					alt.ability: 0b,
+					slot: -1,
+					exp: 0,
+					target: -1,
+					main.ability: 0b
+				}
+			},
+			id: "xat:polarized_stone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

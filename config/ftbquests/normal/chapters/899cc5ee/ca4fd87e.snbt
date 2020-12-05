@@ -1,0 +1,15 @@
+{
+	title: "Carpenting!",
+	x: -3.0d,
+	y: 3.5d,
+	dependencies: [
+		"9d676365"
+	],
+	tasks: [{
+		uid: "f3d30d28",
+		type: "item",
+		items: [{
+			item: "forestry:carpenter"
+		}]
+	}]
+}

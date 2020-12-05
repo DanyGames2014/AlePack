@@ -1,0 +1,38 @@
+{
+	title: "Master forgery",
+	x: 9.0d,
+	y: -0.5d,
+	dependencies: [
+		"bc029d42"
+	],
+	tasks: [{
+		uid: "b2ef4871",
+		type: "item",
+		items: [{
+			id: "tconstruct:toolforge",
+			tag: {
+				textureBlock: {
+					id: "enderio:block_alloy",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "57bd1a73",
+		type: "item",
+		items: [{
+			id: "conarm:armorforge",
+			tag: {
+				textureBlock: {
+					id: "enderio:block_alloy",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 2.5d,
+	dependencies: [
+		"a91deb06"
+	],
+	tasks: [{
+		uid: "8c118710",
+		type: "item",
+		items: [{
+			item: "techreborn:extractor"
+		}]
+	}]
+}

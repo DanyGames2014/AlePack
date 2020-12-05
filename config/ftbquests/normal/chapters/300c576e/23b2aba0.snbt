@@ -1,7 +1,10 @@
 {
 	title: "Specilised Runes",
-	x: 4.5d,
-	y: 2.5d,
+	x: -3.5d,
+	y: 7.5d,
+	dependencies: [
+		"c633cb50"
+	],
 	tasks: [{
 		uid: "9664b358",
 		type: "item",

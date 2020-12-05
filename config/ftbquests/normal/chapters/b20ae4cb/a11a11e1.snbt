@@ -1,0 +1,16 @@
+{
+	title: "Ender pearels",
+	x: 3.5d,
+	y: -3.5d,
+	dependencies: [
+		"f50346cc"
+	],
+	tasks: [{
+		uid: "63665dc8",
+		type: "item",
+		items: [{
+			item: "minecraft:ender_pearl"
+		}],
+		count: 16L
+	}]
+}

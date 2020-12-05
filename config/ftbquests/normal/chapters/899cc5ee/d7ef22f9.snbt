@@ -1,0 +1,29 @@
+{
+	title: "Capacitors",
+	x: -3.0d,
+	y: -4.5d,
+	dependencies: [
+		"590fb8e2"
+	],
+	tasks: [{
+		uid: "50eb77f1",
+		type: "item",
+		items: [{
+			item: "enderio:item_basic_capacitor"
+		}]
+	},
+	{
+		uid: "5dfd61e9",
+		type: "item",
+		items: [{
+			item: "enderio:item_basic_capacitor 1 1"
+		}]
+	},
+	{
+		uid: "6bc9c7a6",
+		type: "item",
+		items: [{
+			item: "enderio:item_basic_capacitor 1 2"
+		}]
+	}]
+}

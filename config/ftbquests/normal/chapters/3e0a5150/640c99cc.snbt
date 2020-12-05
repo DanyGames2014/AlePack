@@ -1,6 +1,6 @@
 {
-	x: 5.0d,
-	y: 3.0d,
+	x: 4.0d,
+	y: -3.0d,
 	text: [
 		"You get many different items from this boss. So get the chest and tick the checkmark"
 	],

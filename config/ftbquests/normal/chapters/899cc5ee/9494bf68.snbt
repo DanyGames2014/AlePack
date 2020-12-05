@@ -1,0 +1,27 @@
+{
+	title: "ZeWrench",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "thermalfoundation:wrench"
+	},
+	x: -1.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	dependencies: [
+		"63cd9d4b"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "3f6d49e1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:wrench"
+		}],
+		ignore_nbt: 1b
+	}]
+}

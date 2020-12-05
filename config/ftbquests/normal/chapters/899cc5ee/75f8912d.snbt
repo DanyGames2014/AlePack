@@ -1,0 +1,15 @@
+{
+	x: -3.0d,
+	y: -3.5d,
+	dependencies: [
+		"10af5a2d"
+	],
+	tasks: [{
+		uid: "30beceea",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_sag_mill"
+		}],
+		ignore_nbt: 1b
+	}]
+}

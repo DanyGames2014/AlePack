@@ -1,0 +1,18 @@
+{
+	title: "Forestry",
+	x: -3.0d,
+	y: 2.5d,
+	text: [
+		"Forestry is a great utility mod, not so much for power generation but for farming and resource gain, a little painful but managable."
+	],
+	dependencies: [
+		"9494bf68"
+	],
+	tasks: [{
+		uid: "d6f4ec9b",
+		type: "item",
+		items: [{
+			item: "forestry:sturdy_machine"
+		}]
+	}]
+}

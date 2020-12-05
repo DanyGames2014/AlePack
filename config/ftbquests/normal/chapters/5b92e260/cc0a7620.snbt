@@ -1,0 +1,12 @@
+{
+	x: 0.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "a3ffb5f5",
+		type: "stat",
+		title: "Become Dany",
+		icon: "botania:hourglass",
+		stat: "stat.playOneMinute",
+		value: 5184000
+	}]
+}

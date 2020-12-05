@@ -1,6 +1,9 @@
 {
-	x: 3.0d,
-	y: 2.0d,
+	x: 4.0d,
+	y: -2.0d,
+	dependencies: [
+		"58445a26"
+	],
 	tasks: [{
 		uid: "21162ba6",
 		type: "kill",

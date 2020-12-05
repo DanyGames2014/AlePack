@@ -25,7 +25,12 @@
 !local/ftbquests/**
 !local/ftbutilities/**
 
+#--------DISCORD--------#
+#files in craftpresence
+!craftpresence/*.*
 
+#everything else in craftpresence
+!craftpresence/**
 
 #--------SCRIPTS--------#
 #files in scripts

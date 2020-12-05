@@ -1,0 +1,15 @@
+{
+	title: "Spark of genius",
+	x: -1.0d,
+	y: 3.0d,
+	dependencies: [
+		"8ff14f73"
+	],
+	tasks: [{
+		uid: "0dcf230e",
+		type: "item",
+		items: [{
+			item: "botania:spark"
+		}]
+	}]
+}

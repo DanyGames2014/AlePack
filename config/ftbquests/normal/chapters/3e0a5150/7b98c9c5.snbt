@@ -1,6 +1,15 @@
 {
-	x: 0.0d,
-	y: -2.5d,
+	title: "Lich king?",
+	x: 2.0d,
+	y: 0.0d,
+	description: "Where is Kel’Thuzad at?",
+	text: [
+		""
+	],
+	dependencies: [
+		"804362e2",
+		"5302363d"
+	],
 	tasks: [{
 		uid: "c9ce3029",
 		type: "kill",

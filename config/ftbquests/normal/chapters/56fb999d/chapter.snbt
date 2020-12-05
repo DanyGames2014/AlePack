@@ -1,0 +1,12 @@
+{
+	title: "Accessories",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "baublelicious:itemring"
+	},
+	always_invisible: false,
+	group: 900644578,
+	default_quest_shape: ""
+}

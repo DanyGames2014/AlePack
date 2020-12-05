@@ -1,0 +1,25 @@
+{
+	title: "Ore",
+	icon: "thermalfoundation:ore 1 1",
+	x: 3.5d,
+	y: -1.5d,
+	dependencies: [
+		"f50346cc"
+	],
+	tasks: [{
+		uid: "c556218f",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:ore 1 1"
+		}],
+		count: 16L
+	},
+	{
+		uid: "f9db413a",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:ore"
+		}],
+		count: 16L
+	}]
+}

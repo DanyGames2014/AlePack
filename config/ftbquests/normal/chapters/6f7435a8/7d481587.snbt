@@ -1,0 +1,13 @@
+{
+	title: "shrooms",
+	icon: "botania:mushroom 1 8",
+	x: -0.5d,
+	y: 2.5d,
+	text: [
+		"Dany wants you to know that shrooms are cool and dont do drugs kids!"
+	],
+	tasks: [{
+		uid: "874eb1c3",
+		type: "checkmark"
+	}]
+}

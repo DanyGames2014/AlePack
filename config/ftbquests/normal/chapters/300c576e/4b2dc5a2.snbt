@@ -1,11 +1,29 @@
 {
-	x: 3.0d,
-	y: 8.0d,
+	title: "Infuse it with mana",
+	x: -1.0d,
+	y: 4.0d,
+	dependencies: [
+		"e059ea3f"
+	],
 	tasks: [{
 		uid: "cb779e6f",
 		type: "item",
 		items: [{
 			item: "botania:manaresource 1 2"
+		}]
+	},
+	{
+		uid: "243d81bf",
+		type: "item",
+		items: [{
+			item: "botania:manaresource"
+		}]
+	},
+	{
+		uid: "54eea82a",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 1"
 		}]
 	}]
 }

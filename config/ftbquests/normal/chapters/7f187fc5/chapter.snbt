@@ -1,0 +1,18 @@
+{
+	title: "Weaponry",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "twilightforest:fiery_sword",
+		tag: {
+			ench: [{
+				lvl: 2s,
+				id: 20s
+			}]
+		}
+	},
+	always_invisible: false,
+	group: 900644578,
+	default_quest_shape: ""
+}

@@ -1,7 +1,0 @@
-{
-	title: "The End",
-	icon: "minecraft:end_stone",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

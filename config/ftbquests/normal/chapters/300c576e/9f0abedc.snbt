@@ -1,7 +1,10 @@
 {
 	title: "Basic Runes",
-	x: -0.5d,
-	y: 3.5d,
+	x: -3.0d,
+	y: 6.5d,
+	dependencies: [
+		"1339da40"
+	],
 	tasks: [{
 		uid: "d39235c4",
 		type: "item",

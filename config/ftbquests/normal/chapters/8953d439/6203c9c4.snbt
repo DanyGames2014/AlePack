@@ -1,0 +1,16 @@
+{
+	x: -7.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "2f74fcc4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tp:wither_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Choose your fate",
+	x: 0.5d,
+	y: 8.5d,
+	description: "You will be able to get the three botania rings with this.",
+	text: [
+		"when you defeat the second phase of the gaia guardian he will drop a dice so you can roll your fate."
+	],
+	dependencies: [
+		"925c4808"
+	],
+	tasks: [{
+		uid: "134eadea",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:dice"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

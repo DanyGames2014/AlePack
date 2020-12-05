@@ -1,0 +1,17 @@
+{
+	x: 1.0d,
+	y: 3.5d,
+	text: [
+		"As we all know, the whole server runs on lava (dont drain the nether)"
+	],
+	dependencies: [
+		"4967f88f"
+	],
+	tasks: [{
+		uid: "e5a42813",
+		type: "item",
+		items: [{
+			item: "techreborn:thermal_generator"
+		}]
+	}]
+}

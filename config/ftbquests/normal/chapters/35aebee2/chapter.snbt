@@ -1,0 +1,13 @@
+{
+	title: "Equipment",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "thaumcraft:baubles",
+		Damage: 5s
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

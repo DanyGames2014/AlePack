@@ -1,0 +1,15 @@
+{
+	title: "Map",
+	x: 0.0d,
+	y: -1.0d,
+	text: [
+		"Swiper no swiping!"
+	],
+	tasks: [{
+		uid: "d84a22f4",
+		type: "item",
+		items: [{
+			item: "twilightforest:magic_map_focus"
+		}]
+	}]
+}

@@ -1,6 +1,6 @@
 {
 	x: 2.0d,
-	y: -3.0d,
+	y: -3.5d,
 	text: [
 		"Link a collector/floating crytal to a lense than link that lense to some iron ore and wait a bit.",
 		"BTW you dont have to relink it each transformation.",

@@ -1,0 +1,26 @@
+{
+	title: "Electron tubes",
+	x: -5.0d,
+	y: 2.5d,
+	text: [
+		"Different tubes are used for different specifications and upgrade.",
+		"You need to put them into circuit boards."
+	],
+	dependencies: [
+		"c64f23c4"
+	],
+	tasks: [{
+		uid: "b13f2db8",
+		type: "item",
+		items: [{
+			item: "forestry:thermionic_tubes 1 1"
+		}]
+	},
+	{
+		uid: "a02c6846",
+		type: "item",
+		items: [{
+			item: "forestry:thermionic_tubes 1 4"
+		}]
+	}]
+}

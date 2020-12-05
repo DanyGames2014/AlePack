@@ -1,0 +1,17 @@
+{
+	x: -3.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "9de4fb8f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticalagriculture:supremium_helmet",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

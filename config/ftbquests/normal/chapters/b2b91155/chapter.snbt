@@ -9,7 +9,7 @@
 			astralsorcery: {}
 		}
 	},
-	always_invisible: true,
-	group: 806115182,
+	always_invisible: false,
+	group: -1816917836,
 	default_quest_shape: ""
 }

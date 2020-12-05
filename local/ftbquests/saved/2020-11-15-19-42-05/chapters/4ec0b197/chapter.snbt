@@ -1,7 +1,0 @@
-{
-	title: "Computer Science",
-	icon: "computercraft:computer 1 16384",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

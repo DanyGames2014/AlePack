@@ -1,0 +1,12 @@
+{
+	title: "Hot rods",
+	x: -0.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "56f5b28e",
+		type: "item",
+		items: [{
+			item: "minecraft:blaze_rod"
+		}]
+	}]
+}

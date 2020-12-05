@@ -7,6 +7,6 @@
 		id: "twilightforest:shield_scepter"
 	},
 	always_invisible: false,
-	group: 0,
+	group: 247747636,
 	default_quest_shape: ""
 }

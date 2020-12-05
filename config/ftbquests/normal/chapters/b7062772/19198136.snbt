@@ -1,7 +1,13 @@
 {
+	title: "DRGAGON!",
 	x: -2.0d,
-	y: -3.0d,
-	description: "Kill it more if your wanting to",
+	y: -0.5d,
+	shape: "gear",
+	description: "Absorb the bones to get a shout ;)",
+	dependencies: [
+		"8167df2d"
+	],
+	size: 2.0d,
 	tasks: [{
 		uid: "090dff88",
 		type: "kill",

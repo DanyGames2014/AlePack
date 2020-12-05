@@ -1,0 +1,81 @@
+{
+	icon: {
+		ForgeCaps: {
+			"plustic:": {
+				Size: 1,
+				Items: []
+			},
+			"astralsorcery:cap_item_amulet_holder": {
+				AS_Amulet_HolderLeast: -5193465225874987291L,
+				AS_Amulet_HolderMost: -3421494137633881810L
+			},
+			"plustic:fruitsalad_cap": {
+				Size: 5,
+				Items: []
+			},
+			"plustic:musicofthespheres_cap": {
+				Size: 1,
+				Items: []
+			}
+		},
+		id: "tconstruct:broadsword",
+		tag: {
+			StatsOriginal: {
+				AttackSpeedMultiplier: 1.0f,
+				MiningSpeed: 4.7f,
+				FreeModifiers: 3,
+				Durability: 140,
+				HarvestLevel: 2,
+				Attack: 5.0f
+			},
+			Stats: {
+				AttackSpeedMultiplier: 1.0f,
+				MiningSpeed: 4.7f,
+				FreeModifiers: 3,
+				Durability: 140,
+				HarvestLevel: 2,
+				Attack: 5.0f
+			},
+			Special: {
+				Categories: [
+					"weapon",
+					"tool"
+				]
+			},
+			TinkerData: {
+				Materials: [
+					"constantan",
+					"constantan",
+					"constantan"
+				],
+				Modifiers: [
+					"toolleveling"
+				]
+			},
+			Modifiers: [{
+				identifier: "thermalinversion",
+				color: -1015446,
+				level: 1
+			},
+			{
+				identifier: "toolleveling",
+				color: 16777215,
+				level: 1
+			}],
+			Traits: [
+				"thermalinversion",
+				"toolleveling"
+			]
+		}
+	},
+	x: -1.0d,
+	y: 0.0d,
+	text: [
+		"Tinker swords are always better than normally craftable swords"
+	],
+	tasks: [{
+		uid: "8b535942",
+		type: "checkmark",
+		title: "Tinker swords"
+	}]
+}

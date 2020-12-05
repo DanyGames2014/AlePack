@@ -1,0 +1,34 @@
+{
+	title: "Elven gateway",
+	x: 0.0d,
+	y: 7.5d,
+	text: [
+		"Construct the portla. but beware you dont enter it you just \"trade items with it\", if you throw something it doesnt accept it will destroy the item."
+	],
+	dependencies: [
+		"cf6f9b42"
+	],
+	tasks: [{
+		uid: "37a1860c",
+		type: "item",
+		items: [{
+			item: "botania:livingwood 1 5"
+		}],
+		count: 3L
+	},
+	{
+		uid: "c3821d89",
+		type: "item",
+		items: [{
+			item: "botania:alfheimportal"
+		}]
+	},
+	{
+		uid: "53aae46d",
+		type: "item",
+		items: [{
+			item: "botania:livingwood"
+		}],
+		count: 8L
+	}]
+}

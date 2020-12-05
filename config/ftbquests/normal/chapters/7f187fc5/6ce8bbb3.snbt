@@ -1,0 +1,20 @@
+{
+	x: 0.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "fe35b446",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 3,
+					Items: []
+				},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:railgun"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

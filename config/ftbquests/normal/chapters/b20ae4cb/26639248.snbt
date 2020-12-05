@@ -1,0 +1,17 @@
+{
+	title: "That bad show",
+	icon: "twilightforest:miniature_structure",
+	x: 6.0d,
+	y: -5.5d,
+	text: [
+		"AmIrite?"
+	],
+	dependencies: [
+		"1dfd9d27"
+	],
+	tasks: [{
+		uid: "75d96483",
+		type: "dimension",
+		dim: 7
+	}]
+}

@@ -1,0 +1,36 @@
+{
+	title: "Electrotechnics",
+	x: -5.0d,
+	y: 3.5d,
+	text: [
+		"You need these to upgrade/define farms engines and other machines from forestry.",
+		"Be sure that u choose the block u wanna upgrade in the soldering iron.",
+		"for the upgrade info see the forestry book or wiki."
+	],
+	dependencies: [
+		"3291a150"
+	],
+	tasks: [{
+		uid: "8f065726",
+		type: "item",
+		items: [{
+			id: "forestry:chipsets",
+			tag: {
+				T: 3s
+			},
+			Damage: 3s
+		}]
+	},
+	{
+		uid: "fe45c28b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forestry:soldering_iron"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

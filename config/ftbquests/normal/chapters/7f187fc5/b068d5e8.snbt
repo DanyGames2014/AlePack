@@ -1,0 +1,16 @@
+{
+	x: -5.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "6b21a9db",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanismtools:osmiumsword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

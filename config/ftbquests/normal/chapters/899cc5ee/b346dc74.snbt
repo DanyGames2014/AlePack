@@ -1,0 +1,19 @@
+{
+	title: "Alveary",
+	x: -4.0d,
+	y: 4.5d,
+	text: [
+		"This is an 3x3x3 multiblock hive the multiblock needs a controller and other stuff, but you better know your bees before you study this."
+	],
+	dependencies: [
+		"c51f34c3"
+	],
+	tasks: [{
+		uid: "0f265025",
+		type: "item",
+		items: [{
+			item: "forestry:alveary.plain"
+		}],
+		count: 27L
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "TechREBORN!",
+	icon: "techreborn:machine_frame",
+	x: 1.0d,
+	y: 2.5d,
+	text: [
+		"Basically the early vesion of gregtech with the first itteratin of a fusion reactor.",
+		"(gregtech is harder IC2)"
+	],
+	dependencies: [
+		"9494bf68"
+	],
+	tasks: [{
+		uid: "773bc73b",
+		type: "item",
+		items: [{
+			item: "techreborn:machine_frame"
+		}]
+	}]
+}

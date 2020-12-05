@@ -1,0 +1,16 @@
+{
+	x: -5.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "dffaef8a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tp:dragon_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	title: "Cabeling",
+	icon: "thermaldynamics:duct_0",
+	x: 2.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	dependencies: [
+		"9494bf68"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "03e07adb",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_0"
+		}]
+	},
+	{
+		uid: "fe5b0878",
+		type: "item",
+		items: [{
+			item: "enderio:item_power_conduit"
+		}]
+	},
+	{
+		uid: "2cd51ed7",
+		type: "item",
+		items: [{
+			item: "techreborn:cable 1 5"
+		}]
+	}]
+}

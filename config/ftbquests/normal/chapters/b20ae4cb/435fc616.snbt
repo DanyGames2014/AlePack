@@ -1,0 +1,14 @@
+{
+	title: "Midnight",
+	icon: "midnight:midnight_mycelium",
+	x: 5.5d,
+	y: 0.5d,
+	dependencies: [
+		"f50346cc"
+	],
+	tasks: [{
+		uid: "bfc6cf2c",
+		type: "dimension",
+		dim: -23
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	x: 0.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "4b3e6f9a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {},
+				"xat:trinket": {
+					mana: 0,
+					count: 0,
+					alt.ability: 0b,
+					slot: -1,
+					exp: 0,
+					target: -1,
+					main.ability: 0b
+				}
+			},
+			id: "xat:wither_ring"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -2,6 +2,6 @@
 	title: "The End",
 	icon: "minecraft:end_stone",
 	always_invisible: false,
-	group: 0,
+	group: 247747636,
 	default_quest_shape: ""
 }

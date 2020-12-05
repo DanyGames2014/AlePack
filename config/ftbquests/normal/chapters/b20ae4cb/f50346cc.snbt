@@ -1,0 +1,51 @@
+{
+	title: "Sign with your soul",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {
+				AS_Amulet_HolderLeast: -5193465225874987291L,
+				AS_Amulet_HolderMost: -3421494137633881810L
+			}
+		},
+		id: "bibliocraft:biblioclipboard",
+		tag: {
+			page1: {
+				title: "",
+				taskStates: [I;
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0
+				],
+				tasks: {
+					task5: "",
+					task6: "",
+					task7: "",
+					task8: "",
+					task9: "",
+					task1: "",
+					task2: "",
+					task3: "",
+					task4: ""
+				}
+			},
+			totalPages: 1,
+			currentPage: 1
+		}
+	},
+	x: 5.5d,
+	y: -1.5d,
+	text: [
+		"Welcome to the Aelhouse pack, a pack custom crated for a server by the community, if you dont wanna be lonely join us!",
+		"If not enjoy yourslef! :D "
+	],
+	tasks: [{
+		uid: "e99b7192",
+		type: "checkmark"
+	}]
+}

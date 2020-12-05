@@ -1,11 +1,11 @@
 {
-	x: -1.5d,
+	title: "Diamonds",
+	x: 5.5d,
 	y: -3.5d,
 	shape: "hexagon",
 	dependencies: [
-		"105bde0d"
+		"f50346cc"
 	],
-	optional: true,
 	tasks: [{
 		uid: "ebae70af",
 		type: "item",

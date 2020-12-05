@@ -1,7 +1,7 @@
 {
-	title: "Basic technology",
-	icon: "thermalfoundation:material 1 22",
+	title: "Extra Utility",
+	icon: "extrautils2:rainbowgenerator",
 	always_invisible: false,
-	group: 0,
+	group: -1986214418,
 	default_quest_shape: ""
 }
